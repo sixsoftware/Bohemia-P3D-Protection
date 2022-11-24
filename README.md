@@ -31,9 +31,7 @@
 
 
 
-Protects P3D files from being de-binarized and stolen using D3P3D.exe
-
-
+Protects P3D files from being de-binarized and stolen using the public tool "D3P3D.exe"
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
