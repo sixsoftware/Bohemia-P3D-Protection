@@ -33,6 +33,8 @@
 
 Protects P3D files from being de-binarized and stolen using the public tool "D3P3D.exe"
 
+What's P3D? https://community.bistudio.com/wiki/P3D_File_Format_-_MLOD
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
